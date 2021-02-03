@@ -1,0 +1,6 @@
+C:\Curso C# SENAI\ControleDeFluxo\Lista1_q5\obj\Debug\Lista1_q5.csproj.CoreCompileInputs.cache
+C:\Curso C# SENAI\ControleDeFluxo\Lista1_q5\bin\Debug\Lista1_q5.exe.config
+C:\Curso C# SENAI\ControleDeFluxo\Lista1_q5\bin\Debug\Lista1_q5.exe
+C:\Curso C# SENAI\ControleDeFluxo\Lista1_q5\bin\Debug\Lista1_q5.pdb
+C:\Curso C# SENAI\ControleDeFluxo\Lista1_q5\obj\Debug\Lista1_q5.exe
+C:\Curso C# SENAI\ControleDeFluxo\Lista1_q5\obj\Debug\Lista1_q5.pdb

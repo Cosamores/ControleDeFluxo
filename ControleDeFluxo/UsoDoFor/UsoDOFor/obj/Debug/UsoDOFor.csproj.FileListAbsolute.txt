@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\UsoDOFor\obj\Debug\UsoDOFor.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\UsoDOFor\obj\Debug\UsoDOFor.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\UsoDOFor\bin\Debug\UsoDOFor.exe.config
+C:\Users\Lenovo\source\repos\UsoDOFor\bin\Debug\UsoDOFor.exe
+C:\Users\Lenovo\source\repos\UsoDOFor\bin\Debug\UsoDOFor.pdb
+C:\Users\Lenovo\source\repos\UsoDOFor\obj\Debug\UsoDOFor.exe
+C:\Users\Lenovo\source\repos\UsoDOFor\obj\Debug\UsoDOFor.pdb

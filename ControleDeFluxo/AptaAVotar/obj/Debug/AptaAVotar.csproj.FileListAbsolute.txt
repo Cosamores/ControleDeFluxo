@@ -1,0 +1,7 @@
+C:\Curso C# SENAI\ControleDeFluxo\AptaAVotar\obj\Debug\AptaAVotar.csprojAssemblyReference.cache
+C:\Curso C# SENAI\ControleDeFluxo\AptaAVotar\obj\Debug\AptaAVotar.csproj.CoreCompileInputs.cache
+C:\Curso C# SENAI\ControleDeFluxo\AptaAVotar\bin\Debug\AptaAVotar.exe.config
+C:\Curso C# SENAI\ControleDeFluxo\AptaAVotar\bin\Debug\AptaAVotar.exe
+C:\Curso C# SENAI\ControleDeFluxo\AptaAVotar\bin\Debug\AptaAVotar.pdb
+C:\Curso C# SENAI\ControleDeFluxo\AptaAVotar\obj\Debug\AptaAVotar.exe
+C:\Curso C# SENAI\ControleDeFluxo\AptaAVotar\obj\Debug\AptaAVotar.pdb

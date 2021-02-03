@@ -1,0 +1,7 @@
+C:\Curso C# SENAI\ControleDeFluxo\UsoDoIf\obj\Debug\UsoDoIf.csprojAssemblyReference.cache
+C:\Curso C# SENAI\ControleDeFluxo\UsoDoIf\obj\Debug\UsoDoIf.csproj.CoreCompileInputs.cache
+C:\Curso C# SENAI\ControleDeFluxo\UsoDoIf\bin\Debug\UsoDoIf.exe.config
+C:\Curso C# SENAI\ControleDeFluxo\UsoDoIf\bin\Debug\UsoDoIf.exe
+C:\Curso C# SENAI\ControleDeFluxo\UsoDoIf\bin\Debug\UsoDoIf.pdb
+C:\Curso C# SENAI\ControleDeFluxo\UsoDoIf\obj\Debug\UsoDoIf.exe
+C:\Curso C# SENAI\ControleDeFluxo\UsoDoIf\obj\Debug\UsoDoIf.pdb
